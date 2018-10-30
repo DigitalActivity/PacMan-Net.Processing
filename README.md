@@ -1,11 +1,11 @@
 # PacMan-Net.Processing
 Avec Patrons de conception
 
--Cours de Méthodologies de programmation
--Cegep de Saint-Jean-sur-Richelieu A2017
--Objectif : Mettre en pratique les bons principes de l'orienté objet vus dans le cours, ainsi que les patrons de conception
--Auteurs : Younes Rabdi et Jérémie Fortin
--Date : 2017 - 05 - 26
+- Cours de Méthodologies de programmation
+- Cegep de Saint-Jean-sur-Richelieu A2017
+- Objectif : Mettre en pratique les bons principes de l'orienté objet vus dans le cours, ainsi que les patrons de conception
+- Auteurs : Younes Rabdi et Jérémie Fortin
+- Date : 2017 - 05 - 26
 
 - Programme d'une version du jeu de Pacman, faite en Net.Processing.
 - Le joueur contrôle son personnage avec les touches directionnelles ou WASD.
